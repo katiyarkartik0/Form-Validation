@@ -1,0 +1,23 @@
+.Aboutme{
+    height: 40vh;
+    width: 100%;;
+  }
+  .card{
+    width: 89%;
+    margin: auto;
+  }
+  .container{
+    padding: 10px;
+    background-color: rgb(194, 145, 145);
+    width:50vw;
+    margin: auto;  
+  }
+  .com{
+    margin: 0 auto;
+  }
+  .submit{
+    display: grid;
+  }
+  .warning{
+    color: red;
+  }
